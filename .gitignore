@@ -27,8 +27,8 @@ build/Release
 node_modules
 
 # Custom
-lib
-lib/*.js
-lib/*/*.js
+#lib
+#lib/*.js
+#lib/*/*.js
 unused
 .DS_Store
